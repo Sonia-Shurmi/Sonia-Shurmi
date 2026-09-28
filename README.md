@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="./github-banner.png" width="100%" />
+  <img src="./banner.png" width="100%" />
 </p>
 
 <h3 align="center">Front End Web Developer | React & Next.js Enthusiast</h3>
