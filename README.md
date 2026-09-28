@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Sonia%20Shurmi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="./github-banner.png" width="100%" />
 </p>
 
 <h3 align="center">Front End Web Developer | React & Next.js Enthusiast</h3>
